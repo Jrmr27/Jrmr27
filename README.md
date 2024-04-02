@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jrmr27
 - 👀 I’m interested in ... programming among other things right now
-- 🌱 I’m currently learning ... R and C
+- 🌱 I’m currently learning ... R, C & Java
 - 💞️ I’m looking to collaborate on ... programming projects
 - 📫 How to reach me ... via discord of github
 
