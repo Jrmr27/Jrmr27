@@ -9,7 +9,6 @@
 - 🌱 I’m currently studying my third year of a Computer Engineering degree 💻
 - 🌟 In my path, I aspire to become a Data Analyst or Scientist using & modelling data📊, cloud technologies☁️ & artificial intelligence🤖 to solve real-world meaningful & helpful problems
 - 💞️ I’m open to collaborating on diverse programming projects, especially those that challenge & inspire creativity ✨— because it’s in the face of adversity that your true self emerges
-- 📫 Feel free to reach out via Discord, Linkedin & GitHub! --> 📬 
 
 <h3 align="left">🛠 Language and tools</h3>
 
