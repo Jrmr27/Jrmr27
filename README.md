@@ -11,7 +11,8 @@
 - 💞️ I’m open to collaborating on diverse programming projects, especially those that challenge & inspire creativity ✨— because it’s in the face of adversity that your true self emerges
 - 📫 Feel free to reach out via Discord, Linkedin & GitHub! --> 📬 
 
-<!---
-Jrmr27/Jrmr27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
