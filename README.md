@@ -10,7 +10,7 @@
 - 🌟 In my path, I aspire to become a Data Analyst or Scientist using & modelling data📊, cloud technologies☁️ & artificial intelligence🤖 to solve real-world meaningful & helpful problems
 - 💞️ I’m open to collaborating on diverse programming projects, especially those that challenge & inspire creativity ✨— because it’s in the face of adversity that your true self emerges
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">💭 Languages </h3>
 
 ###
 
@@ -19,11 +19,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/flet-dev/flet/main/media/logo/flet-logo.svg" height="35" alt="Flet logo" />
-  <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img width="12" />
@@ -35,6 +31,37 @@
   <img width="12" />
 </div>
 
+###
+<h3 align="left">🛠 Tools, Frameworks & Platforms</h3>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/flet-dev/flet/main/media/logo/flet-logo.svg" height="35" alt="Flet logo" />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublime-text/sublime-text-original.svg" height="40" alt="Sublime Text logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="40" alt="Azure logo" />
+  <img width="12" />
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" height="40" alt="Jupyter logo" />
+  <img width="12" />
+  <img src="https://www.altair.com/assets/icon.png" height="40" alt="Altair logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/rapidminer/rapidminer-brand/main/rapidminer-logo.svg" height="40" alt="RapidMiner logo" />
+  <img src="https://img.shields.io/badge/Marvel-FF2E63?style=for-the-badge&logo=marvel&logoColor=white" height="40" alt="Marvel logo" />
+  <img width="12" />
+   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="40" alt="Canva logo" />
+  <img width="12" />
+   <img src="https://cdn-icons-png.flaticon.com/512/7636/7636535.png" height="40" alt="CapCut logo" />
+  <img width="12" />
+</div>  
+
+
+
+###
 <h3 align="left">📫 Reach out via</h3>
 
 <div align="left">
