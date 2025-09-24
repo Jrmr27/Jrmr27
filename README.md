@@ -7,7 +7,7 @@
 ###
 - 👀 I’m passionate about programming 👩‍💻 & always learning something new 🚀— my love for learning and being open to what comes next push me to grow everyday
 - 🌱 I’m currently studying my third year of a Computer Engineering degree 💻
-- 🌟 In my path, I aspire to become a Data Analyst or Scientist use & design data📊, cloud technologies☁️ & artificial intelligence🤖 to solve real-world meaningful & helpful problems
+- 🌟 In my path, I aspire to become a Data Analyst or Scientist using & modelling data📊, cloud technologies☁️ & artificial intelligence🤖 to solve real-world meaningful & helpful problems
 - 💞️ I’m open to collaborating on diverse programming projects, especially those that challenge & inspire creativity ✨— because it’s in the face of adversity that your true self emerges
 - 📫 Feel free to reach out via Discord, Linkedin & GitHub! --> 📬 
 
