@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩🏻‍💻  About Me</h3>
 
 ###
 - 👀 I’m passionate about programming 👩‍💻 & always learning something new 🚀— my love for learning and being open to what comes next push me to grow everyday
