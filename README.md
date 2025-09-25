@@ -48,14 +48,13 @@
   <img width="12" />
   <img src="https://jupyter.org/assets/homepage/main-logo.svg" height="40" alt="Jupyter logo" />
   <img width="12" />
-  <img src="https://www.altair.com/assets/icon.png" height="40" alt="Altair logo" />
+  <img src="https://avatars.githubusercontent.com/u/4490278?s=200&v=4" height="40" alt="User avatar" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/rapidminer/rapidminer-brand/main/rapidminer-logo.svg" height="40" alt="RapidMiner logo" />
   <img src="https://img.shields.io/badge/Marvel-FF2E63?style=for-the-badge&logo=marvel&logoColor=white" height="40" alt="Marvel logo" />
   <img width="12" />
    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="40" alt="Canva logo" />
   <img width="12" />
-   <img src="https://cdn-icons-png.flaticon.com/512/7636/7636535.png" height="40" alt="CapCut logo" />
+  <img src="https://dagonleon.com/wp-content/uploads/2024/04/1691746000capcut-logo-2-1024x1024.png" height="40" alt="Capcut logo" />
   <img width="12" />
 </div>  
 
