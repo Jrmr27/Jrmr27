@@ -40,7 +40,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublime-text/sublime-text-original.svg" height="40" alt="Sublime Text logo" />
+  <img src="https://gitlab.com/uploads/-/system/group/avatar/52247825/sublime-text.svg.png" height="40" alt="Sublime Text logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
   <img width="12" />
